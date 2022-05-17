@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-anyar
-=======
-anyar
+anyar 
+
 
 tambah fitur baru lagi
->>>>>>> tambahan_fitur_baru
